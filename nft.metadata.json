@@ -1,0 +1,24 @@
+{
+  "name": "TheKIE Certification",
+  "description": "TheKIE’s Carbon Emissions Certificate",
+  "image": "https://raw.githubusercontent.com/freedev82/solana.example.metadata/main/thekie_carbon_credit_cert.png",
+  "animation_url": "",
+  "external_url": "https://www.thekie.com",
+  "attributes": [
+    {
+      "trait_type": "project_name",
+      "value": "test-project"      
+    },
+    {
+      "trait_type": "project_type",
+      "value": "Renewable energy"
+    },
+    {
+      "trait_type": "vintage",
+      "value": "2022"
+    }
+  ],
+  "properties": {
+        
+  }
+}
