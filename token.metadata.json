@@ -1,0 +1,10 @@
+{
+  "name": "Lucia",
+  "symbol": "LUX",
+  "image": "https://raw.githubusercontent.com/freedev82/solana.example.metadata/main/lucia-token-logo.png",
+  "description": "The Official Lucia token",
+  "creator": {
+    "name": "TheKIE",
+    "site": "https://lucia.thekie.com"
+  }
+}
