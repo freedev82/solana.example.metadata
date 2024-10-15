@@ -1,6 +1,20 @@
 {
   "name": "TheKIE Leo Asset",
-  "symbol": "LEOA",  
+  "symbol": "LEOA",
   "description": "The Official Lucia token Asset",
-  "image": "https://raw.githubusercontent.com/freedev82/solana.example.metadata/main/lucia-token-logo.png"  
+  "image": "https://raw.githubusercontent.com/freedev82/solana.example.metadata/main/lucia-token-logo.png",
+  "attributes": [
+    {
+      "trait_type": "project",
+      "value": 1
+    },
+    {
+      "trait_type": "sdg",
+      "value": [
+        1,
+        2,
+        3
+      ]
+    }
+  ]
 }
