@@ -1,11 +1,6 @@
 {
   "name": "TheKIE Leo",
-  "symbol": "LEO",
-  "image": "https://raw.githubusercontent.com/freedev82/solana.example.metadata/main/lucia-token-logo.png",
+  "symbol": "LEO",  
   "description": "The Official Lucia token",
-  "website": "https://lucia.thekie.com",
-  "creator": {
-    "name": "TheKIE",
-    "site": "https://www.thekie.com"
-  }
+  "image": "https://raw.githubusercontent.com/freedev82/solana.example.metadata/main/lucia-token-logo.png"  
 }
