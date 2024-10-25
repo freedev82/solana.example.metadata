@@ -1,21 +1,6 @@
 {
-  "name": "Lucia Carbon Credit Offsets Certification",
-  "description": "TheKIE’s Lucia Carbon Credit Offsets Certification",
-  "image": "https://raw.githubusercontent.com/freedev82/solana.example.metadata/main/thekie_carbon_credit_cert.png",
-  "animation_url": "",
-  "external_url": "https://www.thekie.com",
-  "attributes": [
-    {
-      "trait_type": "project_name",
-      "value": "National Biodigester Programme Cambodia"      
-    },
-    {
-      "trait_type": "project_type",
-      "value": "ccs"
-    },
-    {
-      "trait_type": "project_id",
-      "value": "PJ1"
-    }
-  ]  
+  "name": "Lucia Carbon Offsets Collection",
+  "description": "TheKIE’s Lucia Carbon Offsets Collection",
+  "image": "https://raw.githubusercontent.com/freedev82/solana.example.metadata/main/nft.lucia.offsets.collection.png",
+  "external_url": "https://www.thekie.com"  
 }
