@@ -1,0 +1,12 @@
+{
+  "name": "Lucia Carbon Offsets Certificate #1",
+  "description": "TheKIE’s Lucia Carbon Offsets Certificate",
+  "image": "https://raw.githubusercontent.com/freedev82/solana.example.metadata/main/nft.lucia.offsets.cert.edition-1.png",
+  "external_url": "https://www.thekie.com",
+  "attributes": [
+    {
+      "trait_type": "certType",
+      "value": "offsets"
+    }
+  ]
+}
