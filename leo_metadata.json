@@ -1,0 +1,6 @@
+{
+  "name": "LEO Token",
+  "symbol": "LEO",  
+  "description": "The true Ledger of Environmental Organization",
+  "image": "https://raw.githubusercontent.com/freedev82/solana.example.metadata/main/leo_token.png"  
+}
