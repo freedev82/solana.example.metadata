@@ -3,7 +3,7 @@
   "symbol": "BASC",
   "description": "A community-driven NFT project consisting of 6001 Bored Apes on the Solana Blockchain. Giving power back to the people. BASC is not affiliated with Yuga Labs.",
   "seller_fee_basis_points": 800,
-  "image": "https://github.com/freedev82/solana.example.metadata/blob/main/Bored_Ape_Solana_Club_1694.png",
+  "image": "https://raw.githubusercontent.com/freedev82/solana.example.metadata/main/Bored_Ape_Solana_Club_1694.png",
   "external_url": "https://www.bascdao.net",
   "edition": 1694,
   "attributes": [
@@ -49,7 +49,7 @@
     ],
     "files": [
       {
-        "uri": "https://github.com/freedev82/solana.example.metadata/blob/main/Bored_Ape_Solana_Club_1694.png",
+        "uri": "https://raw.githubusercontent.com/freedev82/solana.example.metadata/main/Bored_Ape_Solana_Club_1694.png",
         "type": "image/png"
       }
     ]
